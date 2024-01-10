@@ -22,10 +22,8 @@ public class DVD extends Item {
     public void returnItem() {
     }
 
-    // Add the setBorrowed method
     public void setBorrowed(boolean borrowed) {
         super.setBorrowed(borrowed);
     }
 
-    // Other methods and getters/setters
 }
